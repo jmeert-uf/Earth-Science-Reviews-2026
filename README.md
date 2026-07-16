@@ -11,3 +11,5 @@ Geochron Excel file contains detrital zircon data from the Vindhyan Basin and wi
 All other files are legacy text, figures and table files from the final publication
 
 Any errors contact me at jmeert@ufl.edu
+
+Corrigendum to figure 15 is now included in the files.
