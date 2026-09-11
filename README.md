@@ -12,4 +12,10 @@ All other files are legacy text, figures and table files from the final publicat
 
 Any errors contact me at jmeert@ufl.edu
 
-Corrigendum to figure 15 is now included in the files.
+**Corrigendum to figure 15 is now included in the files.**
+
+<u>Other Corrections</u> 
+
+**page 12: NIB intrusives pole meets criterion #7 so it should be R=5 in Table 1 to match the text
+page 23: Pole-A 2.18 Ga meets criterion #7 (due to positive baked contact test) so it should be R=5 in Table 1 to match the text.   
+page 24: 1.864 Ga pole is given R=6 in the text.  It does not have a reversals test so the text should be changed to R=5 to match Table 1.**
